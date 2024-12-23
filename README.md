@@ -1,4 +1,4 @@
-# Recommendations to Increase Sales at a Nurse Staffing Agency
+# Increasing Sales at a Nurse Staffing Agency
 For this project, I analyzed publicly accessible data from the Centers for Medicaid and Medicare Services to make recommendations to a Nurse Staffing Agency’s (NSA) sales team. The NSA provides nursing contractors to long-term care facilities (e.g., nursing homes) across the United States and aims to address nursing shortages, improve healthcare quality, and provide flexible work for nurses. This project required me to quickly learn and analyze new data and clearly communicate my findings and recommendations.
 
 ### The goal of this project was to gather insights from public nursing data and make recommendations to help a Nurse Staffing Agency increase their sales.
